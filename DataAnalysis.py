@@ -1,9 +1,3 @@
-# DataAnalysis.py
-# Author: Jared Buehner
-# Class: SDEV 300
-# Professor: Muhammad Khan
-# Date: 06/22/2020
-
 # Imports.
 import sys
 import matplotlib.pyplot as plt
